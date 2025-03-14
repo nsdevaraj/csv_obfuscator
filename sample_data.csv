@@ -1,0 +1,16 @@
+ID,Name,Age,Country,City,Salary,Department,Email,Date Joined,Status
+1,John Smith,34,USA,New York,75000,Engineering,john.smith@example.com,2020-03-15,Active
+2,Maria Garcia,29,Spain,Madrid,68000,Marketing,maria.garcia@example.com,2021-06-22,Active
+3,Li Wei,42,China,Beijing,82000,Finance,li.wei@example.com,2018-11-05,Active
+4,Sarah Johnson,31,UK,London,71500,HR,sarah.j@example.com,2019-08-10,Inactive
+5,Ahmed Hassan,38,Egypt,Cairo,65000,Operations,a.hassan@example.com,2017-04-30,Active
+6,Priya Patel,27,India,Mumbai,59000,Sales,p.patel@example.com,2022-01-18,Probation
+7,Carlos Rodriguez,45,Mexico,Mexico City,88000,Executive,c.rodriguez@example.com,2015-09-12,Active
+8,Olga Petrov,33,Russia,Moscow,72500,Engineering,o.petrov@example.com,2020-07-08,Active
+9,James Wilson,26,Canada,Toronto,61000,Marketing,j.wilson@example.com,2022-05-03,Active
+10,Fatima Al-Farsi,41,UAE,Dubai,95000,Finance,f.alfarsi@example.com,2016-12-01,Active
+11,Takashi Yamamoto,37,Japan,Tokyo,79500,R&D,t.yamamoto@example.com,2018-03-22,Active
+12,Emma Brown,30,Australia,Sydney,67000,Customer Support,e.brown@example.com,2021-02-14,Active
+13,Luis Fernandez,44,Brazil,São Paulo,84000,Operations,l.fernandez@example.com,2017-08-19,Inactive
+14,Aisha Mbeki,28,South Africa,Johannesburg,63500,Sales,a.mbeki@example.com,2021-11-30,Active
+15,Hans Mueller,39,Germany,Berlin,77000,Engineering,h.mueller@example.com,2019-05-17,Active
