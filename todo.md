@@ -33,5 +33,5 @@
 ## Delivery
 - [x] Package the tool for delivery
 - [x] Deliver the final tool to the user with documentation
-- [ ] Package the updated tool with new features
-- [ ] Deliver the updated tool to the user with revised documentation
+- [x] Package the updated tool with new features
+- [x] Deliver the updated tool to the user with revised documentation
