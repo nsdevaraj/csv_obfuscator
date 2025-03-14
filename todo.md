@@ -28,7 +28,7 @@
 - [x] Create usage documentation
 - [x] Add examples of tool usage
 - [x] Document installation requirements
-- [ ] Update documentation with new features for ignoring date and boolean columns
+- [x] Update documentation with new features for ignoring date and boolean columns
 
 ## Delivery
 - [x] Package the tool for delivery
