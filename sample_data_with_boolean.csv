@@ -1,0 +1,11 @@
+ID,Name,Age,Country,City,Salary,Department,Email,Date Joined,Status,Active,Verified
+1,John Smith,34,USA,New York,75000,Engineering,john.smith@example.com,2020-03-15,Active,Yes,True
+2,Maria Garcia,29,Spain,Madrid,68000,Marketing,maria.garcia@example.com,2021-06-22,Active,Yes,True
+3,Li Wei,42,China,Beijing,82000,Finance,li.wei@example.com,2018-11-05,Active,Yes,False
+4,Sarah Johnson,31,UK,London,71500,HR,sarah.j@example.com,2019-08-10,Inactive,No,True
+5,Ahmed Hassan,38,Egypt,Cairo,65000,Operations,a.hassan@example.com,2017-04-30,Active,Yes,True
+6,Priya Patel,27,India,Mumbai,59000,Sales,p.patel@example.com,2022-01-18,Probation,Yes,False
+7,Carlos Rodriguez,45,Mexico,Mexico City,88000,Executive,c.rodriguez@example.com,2015-09-12,Active,Yes,True
+8,Olga Petrov,33,Russia,Moscow,72500,Engineering,o.petrov@example.com,2020-07-08,Active,Yes,True
+9,James Wilson,26,Canada,Toronto,61000,Marketing,j.wilson@example.com,2022-05-03,Active,Yes,True
+10,Fatima Al-Farsi,41,UAE,Dubai,95000,Finance,f.alfarsi@example.com,2016-12-01,Active,Yes,False

@@ -1,0 +1,11 @@
+ID,Name,Age,Country,City,Salary,Department,Email,Date Joined,Status,Active,Verified
+1,Barbara,38,Donna,David,83635,Jennifer,Argentina,2020-03-15,Kimberly,Yes,True
+2,David,25,Mary,Barbara,74713,Noah,Israel,2021-06-22,Kimberly,Yes,True
+2,Ava,38,Brian,Liam,67150,George,Estonia,2018-11-05,Kimberly,Yes,False
+3,Mary,35,Charles,Carol,68054,Melissa,Mozambique,2019-08-10,Steven,No,True
+5,Melissa,38,Emily,Matthew,57185,Steven,Egypt,2017-04-30,Kimberly,Yes,True
+7,Michelle,32,Emma,Mark,66127,James,Guatemala,2022-01-18,Olivia,Yes,False
+7,Donald,53,Sophia,Ava,87771,Nancy,Gambia,2015-09-12,Kimberly,Yes,True
+9,Ethan,39,Noah,Amanda,64945,Jennifer,Bosnia,2020-07-08,Kimberly,Yes,True
+11,Andrew,21,Lucas,James,63917,Noah,Niger,2022-05-03,Kimberly,Yes,True
+9,Brian,36,Ashley,Thomas,86298,George,Afghanistan,2016-12-01,Kimberly,Yes,False

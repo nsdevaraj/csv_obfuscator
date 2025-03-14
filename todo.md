@@ -21,8 +21,8 @@
 - [x] Test numeric value randomization functionality
 - [x] Test unique value replacement functionality
 - [x] Test the tool with various CSV formats and edge cases
-- [ ] Test date column detection and preservation
-- [ ] Test boolean/status column detection and preservation
+- [x] Test date column detection and preservation
+- [x] Test boolean/status column detection and preservation
 
 ## Documentation
 - [x] Create usage documentation
